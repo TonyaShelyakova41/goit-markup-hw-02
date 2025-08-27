@@ -44,8 +44,19 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
+.header-menu-list .header-menu-link:hover, .header-menu-list .header-menu-link:focus {
+    color: #404bbf;
+}
+
+.header-menu-list .header-link-active:active {
+    color: #404bbf;
+}
+
+.header-contacts-list .header-contacts-items:hover, .header-contacts-list .header-contacts-items:hover {
+    color: #404bbf;
+}
+
 .header-contacts-items {
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -74,6 +85,9 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 }
 
+.solutions-button:hover {
+    background: #404bbf;
+}
 /* ----Features----*/
 
 .visually-hidden {
@@ -97,7 +111,6 @@ color: #2e2f42;
 }
 
 .features-description {
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -129,7 +142,6 @@ color: #2e2f42;
 }
 
 .text-team {
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -157,7 +169,6 @@ color: #2e2f42;
 }
 
 .text-portf {
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -180,7 +191,6 @@ color: #f4f4fd;
 }
 
 .footer-text {
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
