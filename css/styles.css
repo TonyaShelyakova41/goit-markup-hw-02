@@ -154,6 +154,9 @@ color: #434455;
 }
 
 /* ----portfolio----*/
+.title-portfolio {
+    background-color: #FFFFFF;
+}
 
 .title-portfolio {
     font-weight: 700;
