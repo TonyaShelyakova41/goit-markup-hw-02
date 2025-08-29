@@ -6,8 +6,7 @@ body {
 
 ul {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
+    
 }
 
 a {
@@ -96,8 +95,7 @@ cursor: pointer
 }
 /* ----Features----*/
 
-.visually-hidden {
-     position: absolute;  
+.visually-hidden {  
      margin: -1px; 
     overflow: hidden; 
     clip: rect(0, 0, 0, 0); 
@@ -133,7 +131,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-text-transform: capitalize
+text-transform: capitalize;
 }
 
 .title-sub-team {
@@ -154,7 +152,7 @@ color: #434455;
 }
 
 /* ----portfolio----*/
-.title-portfolio {
+.portfolio-list-item {
     background-color: #FFFFFF;
 }
 
