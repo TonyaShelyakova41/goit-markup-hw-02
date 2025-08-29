@@ -120,7 +120,7 @@ color: #434455;
 
 /* ----team----*/
 
-.team {
+.team.list {
     background: #f4f4fd;
 }
 
@@ -152,9 +152,7 @@ color: #434455;
 }
 
 /* ----portfolio----*/
-.portfolio-list-item {
-    background-color: #FFFFFF;
-}
+
 
 .title-portfolio {
     font-weight: 700;
