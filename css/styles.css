@@ -120,8 +120,12 @@ color: #434455;
 
 /* ----team----*/
 
+.team {
+   background-color: #F4F4FD;
+}
+
 .team.list {
-    background: #f4f4fd;
+    background: #FFFFFF;
 }
 
 .title-team {
