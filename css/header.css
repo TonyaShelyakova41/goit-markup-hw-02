@@ -15,11 +15,11 @@
 
 .address-item {
 }
-.address-item:hover,
-.address-item:focus {
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
-.header-item:hover,
-.header-item:focus {
+.header-link:hover,
+.header-link:focus {
   color: #404bbf;
 }
